@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="60" alt="Java Logo" />
-  <h1>Hi there, I'm <span style="color: #2e86de;">[Your Name]</span> 👋</h1>
+  <h1>Hi there, I'm <span style="color: #2e86de;">Prangya</span> 👋</h1>
   <p><strong>Software Engineer | Java Backend & Distributed Systems</strong></p>
   <p><em>Passionate about clean architecture, high-throughput microservices, and algorithmic problem-solving.</em></p>
 
