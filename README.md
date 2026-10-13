@@ -1,13 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="60" alt="Java Logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="65" alt="Java Logo" />
   <h1>Hi there, I'm <span style="color: #2e86de;">Prangya</span> 👋</h1>
-  <p><strong>Senior Software Engineer | Java Backend & Distributed Systems</strong></p>
-  <p><em>Passionate about clean architecture, high-throughput microservices, and algorithmic problem-solving.</em></p>
+  <p><strong>Backend Software Engineer | Spring Boot, Distributed Systems & AWS</strong></p>
+  <p><em>Building resilient, decoupled microservices, scalable REST APIs, and high-throughput backend architectures.</em></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/pr-prajyolita20084" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/prangyaprajyolita20" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:prangyaprajyolita20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/pr-prajyolita20084" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/prangyaprajyolita20" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://github.com/prangya20084" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:prangyaprajyolita20@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 </div>
 
@@ -15,52 +24,62 @@
 
 ### 📌 About Me
 
-- 🔭 **Current Focus:** Building production-grade microservices with Spring Boot and preparing for technical interviews.
-- 💡 **Core Strengths:** Object-Oriented Design (OOP), Clean Architecture, RESTful API design, and Database Optimization.
-- 🧩 **Data Structures & Algorithms:** Actively solving algorithmic challenges across dynamic programming, graph traversal, and bitwise manipulation.
-- 🎯 **Target Roles:** Software Development Engineer (SDE / Backend Developer).
+- 💼 **Current Role:** Senior Analyst — Software Engineer at **Capgemini** (promoted in 18 months), engineering Spring Boot microservices on AWS for a global media enterprise platform.
+- ⚙️ **Core Technical Focus:** REST API design, domain service decomposition, query optimization, read-through caching strategies, and end-to-end CI/CD automation.
+- 🏆 **Honors:** Recipient of the **Delivery Excellence Award (Jan 2026)** and **Capgemini Rising Star (2024)**.
+- 🎓 **Academic Background:** B.Tech in Computer Science from **VSSUT Burla** (CGPA: 9.05 / 10).
+- 🧩 **Continuous Problem Solving:** Daily practitioner of core Data Structures & Algorithms, focusing on optimal asymptotic time and space complexity.
 
 ---
 
 ### 🛠️ Technical Skills
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Java (8/11/17+), SQL, JavaScript (ES6+), HTML5/CSS3 |
-| **Backend & APIs** | Spring Boot, Spring Cloud, RESTful APIs, Spring Data JPA, Hibernate, JWT, Microservices |
-| **Frontend** | React, Redux, Responsive UI |
-| **Databases & Caching** | MySQL, PostgreSQL, Redis |
-| **DevOps & Cloud** | AWS (EC2, S3), Docker, Git, GitHub Actions |
-| **Engineering Practices** | Clean Code, SOLID Principles, System Design, JUnit, Mockito, Postman, Bruno |
+| **Languages** | Java (8 / 11 / 17+), SQL, JavaScript (ES6), TypeScript, C, C++ |
+| **Backend Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Cloud, Hibernate / JPA |
+| **Frontend & UI** | React.js, HTML5, CSS3 |
+| **Databases & Caching** | MySQL, MongoDB, Redis |
+| **Cloud & DevOps** | AWS (EC2, RDS, S3, CloudWatch, CodePipeline), Docker, Kubernetes, Jenkins, Maven, Git, GitHub Actions |
+| **Testing & Tooling** | JUnit, Mockito, Swagger / OpenAPI, Postman, Bruno, IntelliJ IDEA, Jira |
+| **Core Concepts** | Microservices Architecture, REST API Versioning, OOP, System Design, Concurrency, DBMS |
 
 ---
 
-### 🚀 Featured Projects
+### 📜 Certifications & Credentials
 
-#### 1. [Enterprise Microservices Platform](https://github.com/[your-username]/[repo-name])
-> **Tech Stack:** Java, Spring Boot, Spring Cloud, Docker, Redis, MySQL
-- Architected an event-driven microservices ecosystem utilizing an API Gateway, Eureka Service Registry, and centralized configuration management.
-- Implemented distributed caching via Redis, cutting redundant database reads by 40%.
-- Integrated robust JWT authentication and role-based access control (RBAC).
+- ☁️ **AWS Certified Cloud Practitioner** *(Issued: Feb 2026)*
+- 🤖 **Claude Certified Developer — Foundations** *(Issued: Oct 2026)*
 
-#### 2. [Scalable RESTful API Service](https://github.com/[your-username]/[repo-name])
-> **Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, JUnit, Mockito
-- Developed a high-throughput backend service following layered architecture (Controller-Service-Repository).
-- Applied defensive programming, global exception handling, and automated schema migration.
-- Achieved 85%+ test coverage using JUnit 5 and Mockito for unit and integration testing.
+---
 
-#### 3. [Full-Stack Web Platform](https://github.com/[your-username]/[repo-name])
-> **Tech Stack:** Java, Spring Boot, React, MySQL, Tailwind CSS
-- Designed an end-to-end full-stack application connecting a decoupled React UI to a Spring Boot REST API.
-- Implemented state management, responsive views, and seamless API payload transformations.
+### 🚀 Engineering Experience & Highlighted Work
+
+#### 1. Studio Operations Platform — Global Media Client
+> **Capgemini** | *Spring Boot, AWS (EC2, RDS, S3, CloudWatch, CodePipeline), MySQL, Redis*
+- Decomposed monolithic approval and operational data pipelines into independently deployable Spring Boot microservices, minimizing system blast radius and failure propagation.
+- Architected versioned REST API contracts facilitating partner integrations without coordinated releases.
+- Achieved a **~20% reduction in API response times** by applying targeted SQL indexing and read-through caching for read-heavy workflows.
+- Owned CI/CD pipelines via AWS CodePipeline, automating deployments, production monitoring, and CloudWatch alerting.
+
+#### 2. Flight Booking System
+> **Personal Project** | *Spring Boot, Spring Security, JWT, React.js, MySQL*
+- Engineered an end-to-end booking platform with decoupled services for search, reservations, and payment processing.
+- Implemented stateless authentication and role-based access control (RBAC) using Spring Security and JWT.
+- Integrated payment gateway REST APIs for real-time ticket issuance connected to a responsive React.js interface.
+
+#### 3. Mission-Critical Sensor Retrieval Tool
+> **ITR Chandipur, DRDO** | *Python, PyQt5, CSV Data Pipelines*
+- Developed an automated desktop GUI application to ingest, parse, and visualize high-volume telemetry records.
+- Replaced a legacy multi-file lookup process with a single-click pipeline, reducing sensor record retrieval to a single step.
 
 ---
 
 ### 🧠 Data Structures & Algorithms
 
 ```text
-[ Daily Problem Solving Vault: Java ]
-├── Graphs & Trees (BFS, DFS, Dijkstra)
-├── Dynamic Programming & Memoization
-├── Two Pointers & Sliding Window
-└── Arrays, Bit Manipulation & Math
+[ Problem Solving Focus: Java ]
+├── Graphs & Trees (BFS, DFS, Topological Sorting, Shortest Path)
+├── Dynamic Programming & Memoization Patterns
+├── Two Pointers, Sliding Window & Frequency Maps
+└── Bitwise Operations, Mathematical Reductions & Greedy Splits
