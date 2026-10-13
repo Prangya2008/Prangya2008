@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="60" alt="Java Logo" />
   <h1>Hi there, I'm <span style="color: #2e86de;">Prangya</span> 👋</h1>
-  <p><strong>Software Engineer | Java Backend & Distributed Systems</strong></p>
+  <p><strong>Senior Software Engineer | Java Backend & Distributed Systems</strong></p>
   <p><em>Passionate about clean architecture, high-throughput microservices, and algorithmic problem-solving.</em></p>
 
   <p>
-    <a href="https://linkedin.com/in/[your-linkedin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/[your-leetcode]" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/pr-prajyolita20084" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/prangyaprajyolita20" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="mailto:prangyaprajyolita20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
